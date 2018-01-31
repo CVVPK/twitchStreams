@@ -4,7 +4,7 @@ $(document).ready(function() {
         "OgamingSC2",
         "summit1g",
         "freecodecamp",
-        "storbeck",
+        "shroud",
         "habathcx",
         "RobotCaleb",
         "noobs2ninjas"
